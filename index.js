@@ -12,7 +12,7 @@ const background = new sprite({
         x: 0,
         y: -60
     },
-    imagesrc: "C:/Users/matth/Desktop/fighting_game/spritesheet.png",
+    imagesrc: "spritesheet.png",
     scale: 1.15,
     framesmax: 8
 
